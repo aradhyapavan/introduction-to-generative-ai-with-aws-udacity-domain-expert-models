@@ -96,50 +96,72 @@ High‑level observations:
 
 #### Project 1
 - **1. Creating and Running Instance**
+
 ![1.Creating_and_Running_Instance](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/1.Creating_and_Running_Instance.png)
 - **2. Uploading Project Starter Files**
+
 ![2.Uploading_Project_Starter_Files](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/2.Uploading_Project_Starter_Files.png)
 - **3. Deploying Model Evaluation Endpoint**
+
 ![3.Deploying_Model_Evelauation_Model](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/3.Deploying_Model_Evelauation_Model.png)
 - **4. Model Evaluation With Output**
+
 ![4.Model_Evaluation_With_Output](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/4.Model_Evaluation_With_Output.png)
 - **5. Deleted Model Deployment Endpoints**
+
 ![5.Deleted_Model_Deployment_endpoints](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/5.Deleted_Model_Deployment_endpoints.png)
 - **6. Fine-tuning Output**
+
 ![6.Model_Finetune_With_Output](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/6.Model_Finetune_With_Output.png)
 - **7. S3 Bucket: Fine-tuned Model Artifacts**
+
 ![7.S3_bucket_finetune_model](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/7.S3_bucket_finetune_model.png)
 - **8. Fine-tuned Model Deployment**
+
 ![8.Model_Finetuning_Model_Deployment](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/8.Model_Finetuning_Model_Deployment.png)
 - **9. Deleting Fine-tuned Model (Notebook Output)**
+
 ![9.Deleting_Finetune_Model_with_Cell_Output](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/9.Deleting_Finetune_Model_with_Cell_Output.png)
 - **9.1. Deleted Fine-tuned Model Deployment Endpoint**
+
 ![9.1.Deleting_Finetune_Model_Deployment_Endpoint](./Project-1/Project_Building_a_Domain_Expert_Model/Snapshots/9.1.Deleting_Finetune_Model_Deployment_Endpoint.png)
 
 #### Project 2
 - **1. Creating and Running Instance**
+
 ![1.Creating_and_Running_Instance](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/1.Creating_and_Running_Instance.jpeg)
 - **2. Uploading Project Starter Files**
+
 ![2.Uploading_Project_Starter_Files](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/2.Uploading_Project_Starter_Files.jpeg)
 - **3.1. Deploying Model Evaluation Endpoint Configuration**
+
 ![3.1.Deploying_Model_Evelauation_Model End_Points_Configuration](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/3.1.Deploying_Model_Evelauation_Model%20End_Points_Configuration.jpeg)
 - **3. Deploying Model Evaluation Endpoints**
+
 ![3.Deploying_Model_Evelauation_Model_End_Points](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/3.Deploying_Model_Evelauation_Model_End_Points.jpeg)
 - **4. Model Evaluation With Output**
+
 ![4.Model_Evaluation_With_Output](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/4.Model_Evaluation_With_Output.jpeg)
 - **5. Deleted Model Deployment Endpoints**
+
 ![5.Deleted_Model_Deployment_endpoints](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/5.Deleted_Model_Deployment_endpoints.jpeg)
 - **6. Fine-tuning Output**
+
 ![6.Model_Finetune_With_Output](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/6.Model_Finetune_With_Output.jpeg)
 - **7. S3 Bucket: Fine-tuned Model Artifacts**
+
 ![7.S3_bucket_finetune_model](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/7.S3_bucket_finetune_model.jpeg)
 - **8.1. Fine-tuned Model Deployment Endpoints Configuration**
+
 ![8.1. 8.Model_Finetuning_Model_Deployment_end_points_configuration](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/8.1.%208.Model_Finetuning_Model_Deployment_end_points_configuration.jpeg)
 - **8. Fine-tuned Model Deployment Endpoints**
+
 ![8.Model_Finetuning_Model_Deployment_end_points](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/8.Model_Finetuning_Model_Deployment_end_points.jpeg)
 - **9. Deleting Fine-tuned Model (Notebook Output)**
+
 ![9.Deleting_Finetune_Model_with_Cell_Output](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/9.Deleting_Finetune_Model_with_Cell_Output.jpeg)
 - **9.1. Deleted Fine-tuned Model Deployment Endpoint**
+
 ![9.1.Deleting_Finetune_Model_Deployment_Endpoint](./Project-2/Project_Building_a_Domain_Expert_Model/Snapshot/9.1.Deleting_Finetune_Model_Deployment_Endpoint.jpeg)
 
 ### Cost and cleanup
